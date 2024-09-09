@@ -5,11 +5,10 @@ public class Reduce {
         int stepsToZero = 0;
 
         while (i != 0){
+            stepsToZero++;
             if (i % 2 == 0){
-                stepsToZero++;
                 i /= 2;
             } else {
-                stepsToZero++;
                 i -= 1;
             }
         }
