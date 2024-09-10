@@ -11,5 +11,6 @@ public class Multiples {
         }
         System.out.println("there are " + multiplesOfFive + " multiples of five");
         System.out.println("there are " + multiplesOfThree + " multiples of three");
+        System.out.println("there are " + (multiplesOfFive + multiplesOfThree) + " multiples of five or three");
     }
 }

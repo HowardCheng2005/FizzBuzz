@@ -381,7 +381,7 @@ cover a lot of the syntax which you just saw for possibly the first time during 
 
 [LeetCode](https://leetcode.com) is a very popular source of practice problems.
 [CoderByte](https://www.coderbyte.com/) is another. 
-If you are looking to apply for a software developer internship, we recommend that you practice these kinds of
+If you are looking to apply for a software developer internship, we recommend that you practice these kindsZ of
 problems over the year. These platforms also support various programming languages, so solving these
 problems is a great way to practice Java or any other new language you later want to learn.
 This term, you might find it interesting to try solving some problems first in Python and then in Java.
